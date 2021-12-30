@@ -1,0 +1,29 @@
+.mytext, .case_result, .copy_right_footer
+{
+    font-variant: small-caps;
+    color: black;
+    background-color:honeydew;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+body
+{
+    background-color: rgb(229, 241, 245);
+}
+.img_and_result
+{
+    color: cornsilk;
+    background-color: darkslategrey;
+    letter-spacing: 2px;
+    text-decoration: goldenrod;
+    font: 200;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 45px;
+    margin-right: 45px;
+    border: indianred;
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: double;
+}
